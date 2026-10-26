@@ -1,0 +1,6 @@
+minecraft = int(input("enter your age your really AGEEEEEEEEEEEEEEEE"))
+if minecraft==18:
+    print("are you sure")
+else:
+    ValueError
+    print ("kid")
